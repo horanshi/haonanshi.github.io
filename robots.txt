@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://haonanshi.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://horanshi.github.io/sitemap.xml
