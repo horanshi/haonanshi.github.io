@@ -5,7 +5,7 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: bio_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>503 Olin, 2001–2017 Martin Luther King Jr Dr</p>
