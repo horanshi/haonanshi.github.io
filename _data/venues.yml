@@ -7,3 +7,12 @@
 
 "Vision":
   color: "#009f36"
+
+"WWW":
+  url: https://www2025.thewebconf.org/
+
+"EuroS&P":
+  url: https://eurosp2024.ieee-security.org/
+
+"Arxiv":
+  color: "#CC0000"
