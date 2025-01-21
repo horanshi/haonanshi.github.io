@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models was accepted by WWW 2025.
+Our paper titled [Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models](arxiv.org/abs/2501.04323) was accepted by WWW 2025.
