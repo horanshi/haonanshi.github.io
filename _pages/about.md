@@ -23,4 +23,4 @@ Prior to this, I received my bachelor's degree from [South China University of T
 
 I am passionate about applying my research to real-world problems and look forward to internship opportunities and research collaborations that can advance the field of machine learning privacy and security.
 
-Email: haonan.shi3@case.edu(please replace "[AT]" by "@")
+Email: haonan.shi3[AT]case.edu(please replace "[AT]" by "@")
