@@ -375,16 +375,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-paper-titled-learning-based-difficulty-calibration-for-enhanced-membership-inference-attacks-was-accepted-by-euros-amp-amp-p-2024",
+          title: 'Our paper titled Learning-Based Difficulty Calibration for Enhanced Membership Inference Attacks was accepted...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-titled-navigating-the-designs-of-privacy-preserving-fine-tuning-for-large-language-models-was-accepted-by-www-2025",
+          title: 'Our paper titled Navigating the Designs of Privacy-Preserving Fine-tuning for Large Language Models...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
