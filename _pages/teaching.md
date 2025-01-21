@@ -2,11 +2,14 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
 nav: true
 nav_order: 6
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+## Case Western Reserve University
 
-Organize your courses by years, topics, or universities, however you like!
+### Graduate Teaching Assistant
+- CSDS600: Deep Generative Models(2023 FALL)
+- SOCI255: Technology of Cyber Security(2022 SPRING)  
+- CSDS493: Software Engineering(2023 FALL, 2024 SPRING)
+- CSDS236: Introduction to C/C++ Programming(2024 FALL)
