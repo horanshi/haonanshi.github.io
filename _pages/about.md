@@ -19,7 +19,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a second-year Ph.D. student at [Case Western Reserve University](https://case.edu/), advised by [Prof. An Wang](https://engineering.case.edu/about/school-directory/an-wang) and co-advised by [Dr. Tu Ouyang](https://www.linkedin.com/in/tuouyang/). My research focuses on privacy and security in machine learning, specifically investigating privacy leakage in machine learning models/systems and developing privacy-preserving machine learning models/systems. 
 
-Prior to this, I received my bachelor's degree from [South China University of Technology](https://www.scut.edu.cn/en/), where I conducted research on spatial data privacy under the supervision of Prof. Hongyu Xu.
+Prior to this, I received my bachelor's degree from [South China University of Technology](https://www.scut.edu.cn/en/), where I conducted research on spatial data privacy under the supervision of Prof. Hongyun Xu.
 
 I am passionate about applying my research to real-world problems and look forward to internship opportunities and research collaborations that can advance the field of machine learning privacy and security.
 
