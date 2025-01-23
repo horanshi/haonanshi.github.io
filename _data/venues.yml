@@ -13,6 +13,7 @@
 
 "EuroS&P":
   url: https://eurosp2024.ieee-security.org/
+  color: "#800080"
 
 "Arxiv":
   color: "#CC0000"
