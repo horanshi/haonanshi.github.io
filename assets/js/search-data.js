@@ -21,7 +21,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/services/";
+            window.location.href = "/teaching/";
           },
         },{id: "post-a-post-with-image-galleries",
       
