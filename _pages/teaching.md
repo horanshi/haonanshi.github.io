@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /services/
+permalink: /teaching/
 title: services
 nav: true
 nav_order: 6
